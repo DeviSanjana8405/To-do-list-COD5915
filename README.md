@@ -46,3 +46,4 @@ The application utilizes browser's local storage to persist tasks even after pag
 ![Marking a Task as Completed](mark_task_completed.gif)
 ## Conclusion
 The To-Do List Web Application offers a simple yet effective solution for managing tasks and staying organized. By leveraging HTML, CSS, and JavaScript, it provides users with a user-friendly interface and essential task management features. Whether you're a beginner looking to enhance your coding skills or an experienced developer seeking a practical project to showcase your abilities, this project offers an exciting opportunity to explore web development concepts and create a valuable tool for personal or professional use.
+![Screenshot (84)](https://github.com/DeviSanjana8405/To-do-list-COD5915/assets/147242683/0106d6c7-e3ca-4233-b5df-54092cbbba33)
